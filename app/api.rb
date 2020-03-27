@@ -3,6 +3,6 @@ module Acme
     prefix 'api'
     format :json
     mount ::Acme::Ping
-    add_swagger_documentation api_version: 'v1'
+    mount ::Acme::Movies
   end
 end
