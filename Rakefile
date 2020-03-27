@@ -21,6 +21,18 @@ task routes: :environment do
   end
 end
 
+namespace :db do
+  desc 'Run migrations'
+  task :migrate, [:version] do |t, args|
+    require 'sequel/core'
+    Sequel.extension :migration
+    version = args[:version].to_i if args[:version]
+    Sequel.connect(ENV['DATABASE_URL'] || 'sqlite://development.db') do |db|
+      Sequel::Migrator.run(db, 'db/migrations', target: version)
+    end
+  end
+end
+
 require 'rubocop/rake_task'
 RuboCop::RakeTask.new(:rubocop)
 
