@@ -15,8 +15,10 @@ gem 'newrelic_rpm'
 gem 'nokogiri'
 gem 'rack-cors'
 gem 'sequel'
-gem 'sqlite3'
 
+group :production do
+  gem 'pg'
+end
 group :development do
   gem 'guard'
   gem 'guard-bundler'
@@ -24,6 +26,7 @@ group :development do
   gem 'pry'
   gem 'rake'
   gem 'rubocop'
+  gem 'sqlite3'
 end
 
 group :test do
