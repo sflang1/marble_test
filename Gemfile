@@ -14,6 +14,7 @@ gem 'mime-types'
 gem 'newrelic_rpm'
 gem 'nokogiri'
 gem 'rack-cors'
+gem 'rake'
 gem 'sequel'
 
 group :production do
