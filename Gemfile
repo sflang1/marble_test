@@ -4,6 +4,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.5'
 
+gem 'dry-transaction'
 gem 'grape'
 gem 'grape-entity'
 gem 'grape-swagger'
@@ -13,12 +14,14 @@ gem 'mime-types'
 gem 'newrelic_rpm'
 gem 'nokogiri'
 gem 'rack-cors'
-gem 'dotenv-rails'
+gem 'sequel'
+gem 'sqlite3'
 
 group :development do
   gem 'guard'
   gem 'guard-bundler'
   gem 'guard-rack'
+  gem 'pry'
   gem 'rake'
   gem 'rubocop'
 end

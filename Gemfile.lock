@@ -33,11 +33,26 @@ GEM
     dry-core (0.4.9)
       concurrent-ruby (~> 1.0)
     dry-equalizer (0.3.0)
+    dry-events (0.2.0)
+      concurrent-ruby (~> 1.0)
+      dry-core (~> 0.4)
+      dry-equalizer (~> 0.2)
     dry-inflector (0.2.0)
     dry-logic (1.0.6)
       concurrent-ruby (~> 1.0)
       dry-core (~> 0.2)
       dry-equalizer (~> 0.2)
+    dry-matcher (0.8.3)
+      dry-core (>= 0.4.8)
+    dry-monads (1.3.5)
+      concurrent-ruby (~> 1.0)
+      dry-core (~> 0.4, >= 0.4.4)
+      dry-equalizer
+    dry-transaction (0.13.0)
+      dry-container (>= 0.2.8)
+      dry-events (>= 0.1.0)
+      dry-matcher (>= 0.7.0)
+      dry-monads (>= 0.4.0)
     dry-types (1.4.0)
       concurrent-ruby (~> 1.0)
       dry-container (~> 0.3)
@@ -155,9 +170,11 @@ GEM
     selenium-webdriver (3.142.7)
       childprocess (>= 0.5, < 4.0)
       rubyzip (>= 1.2.2)
+    sequel (5.30.0)
     shellany (0.0.1)
     spoon (0.0.6)
       ffi
+    sqlite3 (1.4.2)
     thor (1.0.1)
     thread_safe (0.3.6)
     tzinfo (1.2.6)
@@ -172,6 +189,7 @@ PLATFORMS
 
 DEPENDENCIES
   capybara
+  dry-transaction
   grape
   grape-entity
   grape-swagger
@@ -183,12 +201,15 @@ DEPENDENCIES
   mime-types
   newrelic_rpm
   nokogiri
+  pry
   rack-cors
   rack-test
   rake
   rspec
   rubocop
   selenium-webdriver
+  sequel
+  sqlite3
 
 RUBY VERSION
    ruby 2.6.5p114
