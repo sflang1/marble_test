@@ -4,5 +4,6 @@ module Acme
     format :json
     mount ::Acme::Ping
     mount ::Acme::Movies
+    mount ::Acme::Reservations
   end
 end

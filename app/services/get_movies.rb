@@ -7,6 +7,7 @@ class GetMovies
   step :query
 
   private
+
   def validate(input)
     return Failure([:invalid_day, input[:day]]) unless 'LMXJVSD'.include? input[:day]
     Success(input)

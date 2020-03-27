@@ -58,3 +58,533 @@
 [2020-03-26 20:17:08 -0500 sflang-GF75-Thin-9SC (7325)] INFO : Doing deferred dependency-detection before Rack startup
 [2020-03-26 20:17:15 -0500 sflang-GF75-Thin-9SC (7325)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
 [2020-03-26 20:17:17 -0500 sflang-GF75-Thin-9SC (7325)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Environment: development
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] INFO : No known dispatcher detected.
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Application: development
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Installing Sequel instrumentation
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Installing Net instrumentation
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 13:53:18 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Finished instrumentation
+[2020-03-27 13:53:19 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 13:53:19 -0500 sflang-GF75-Thin-9SC (18954)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 13:53:19 -0500 sflang-GF75-Thin-9SC (18954)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 13:53:19 -0500 sflang-GF75-Thin-9SC (18954)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 13:53:19 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Environment: development
+[2020-03-27 13:53:19 -0500 sflang-GF75-Thin-9SC (18954)] INFO : No known dispatcher detected.
+[2020-03-27 13:53:19 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Application: development
+[2020-03-27 13:53:19 -0500 sflang-GF75-Thin-9SC (18954)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 13:53:19 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 13:53:25 -0500 sflang-GF75-Thin-9SC (18954)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 13:53:28 -0500 sflang-GF75-Thin-9SC (18954)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 13:54:27 -0500 sflang-GF75-Thin-9SC (18954)] INFO : Starting Agent shutdown
+[2020-03-27 13:54:29 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 13:54:29 -0500 sflang-GF75-Thin-9SC (19161)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 13:54:29 -0500 sflang-GF75-Thin-9SC (19161)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 13:54:29 -0500 sflang-GF75-Thin-9SC (19161)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 13:54:29 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Environment: development
+[2020-03-27 13:54:29 -0500 sflang-GF75-Thin-9SC (19161)] INFO : No known dispatcher detected.
+[2020-03-27 13:54:29 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Application: development
+[2020-03-27 13:54:29 -0500 sflang-GF75-Thin-9SC (19161)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Installing Sequel instrumentation
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Installing Net instrumentation
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Finished instrumentation
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Environment: development
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : No known dispatcher detected.
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Application: development
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 13:54:30 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 13:54:38 -0500 sflang-GF75-Thin-9SC (19161)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 13:54:44 -0500 sflang-GF75-Thin-9SC (19161)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 13:57:20 -0500 sflang-GF75-Thin-9SC (19161)] INFO : Starting Agent shutdown
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Environment: development
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : No known dispatcher detected.
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Application: development
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Installing Sequel instrumentation
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Installing Net instrumentation
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Finished instrumentation
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Environment: development
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : No known dispatcher detected.
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Application: development
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 13:57:22 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 13:57:34 -0500 sflang-GF75-Thin-9SC (19579)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 13:57:37 -0500 sflang-GF75-Thin-9SC (19579)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:02:00 -0500 sflang-GF75-Thin-9SC (19579)] INFO : Starting Agent shutdown
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Environment: development
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] INFO : No known dispatcher detected.
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Application: development
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Installing Net instrumentation
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:02:01 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Finished instrumentation
+[2020-03-27 14:02:02 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:02:02 -0500 sflang-GF75-Thin-9SC (20151)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:02:02 -0500 sflang-GF75-Thin-9SC (20151)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:02:02 -0500 sflang-GF75-Thin-9SC (20151)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:02:02 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Environment: development
+[2020-03-27 14:02:02 -0500 sflang-GF75-Thin-9SC (20151)] INFO : No known dispatcher detected.
+[2020-03-27 14:02:02 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Application: development
+[2020-03-27 14:02:02 -0500 sflang-GF75-Thin-9SC (20151)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:02:02 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 14:02:08 -0500 sflang-GF75-Thin-9SC (20151)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:02:10 -0500 sflang-GF75-Thin-9SC (20151)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:02:53 -0500 sflang-GF75-Thin-9SC (20151)] INFO : Starting Agent shutdown
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Environment: development
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : No known dispatcher detected.
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Application: development
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Installing Net instrumentation
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Finished instrumentation
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Environment: development
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : No known dispatcher detected.
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Application: development
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:02:55 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 14:03:39 -0500 sflang-GF75-Thin-9SC (20330)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:03:41 -0500 sflang-GF75-Thin-9SC (20330)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:04:27 -0500 sflang-GF75-Thin-9SC (20330)] INFO : Starting Agent shutdown
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Environment: development
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] INFO : No known dispatcher detected.
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Application: development
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Installing Net instrumentation
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:09:01 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Finished instrumentation
+[2020-03-27 14:09:02 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:09:02 -0500 sflang-GF75-Thin-9SC (21027)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:09:02 -0500 sflang-GF75-Thin-9SC (21027)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:09:02 -0500 sflang-GF75-Thin-9SC (21027)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:09:02 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Environment: development
+[2020-03-27 14:09:02 -0500 sflang-GF75-Thin-9SC (21027)] INFO : No known dispatcher detected.
+[2020-03-27 14:09:02 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Application: development
+[2020-03-27 14:09:02 -0500 sflang-GF75-Thin-9SC (21027)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:09:02 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 14:09:24 -0500 sflang-GF75-Thin-9SC (21027)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:09:26 -0500 sflang-GF75-Thin-9SC (21027)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:10:04 -0500 sflang-GF75-Thin-9SC (21027)] INFO : Starting Agent shutdown
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Environment: development
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] INFO : No known dispatcher detected.
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Application: development
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Installing Net instrumentation
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:10:21 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Finished instrumentation
+[2020-03-27 14:10:22 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:10:22 -0500 sflang-GF75-Thin-9SC (21289)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:10:22 -0500 sflang-GF75-Thin-9SC (21289)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:10:22 -0500 sflang-GF75-Thin-9SC (21289)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:10:22 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Environment: development
+[2020-03-27 14:10:22 -0500 sflang-GF75-Thin-9SC (21289)] INFO : No known dispatcher detected.
+[2020-03-27 14:10:22 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Application: development
+[2020-03-27 14:10:22 -0500 sflang-GF75-Thin-9SC (21289)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:10:22 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 14:17:25 -0500 sflang-GF75-Thin-9SC (21289)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:17:27 -0500 sflang-GF75-Thin-9SC (21289)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:19:30 -0500 sflang-GF75-Thin-9SC (21289)] INFO : Starting Agent shutdown
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Environment: development
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] INFO : No known dispatcher detected.
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Application: development
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Installing Net instrumentation
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:19:31 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Finished instrumentation
+[2020-03-27 14:19:32 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:19:32 -0500 sflang-GF75-Thin-9SC (25036)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:19:32 -0500 sflang-GF75-Thin-9SC (25036)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:19:32 -0500 sflang-GF75-Thin-9SC (25036)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:19:32 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Environment: development
+[2020-03-27 14:19:32 -0500 sflang-GF75-Thin-9SC (25036)] INFO : No known dispatcher detected.
+[2020-03-27 14:19:32 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Application: development
+[2020-03-27 14:19:32 -0500 sflang-GF75-Thin-9SC (25036)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:19:32 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 14:19:41 -0500 sflang-GF75-Thin-9SC (25036)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:19:43 -0500 sflang-GF75-Thin-9SC (25036)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:26:32 -0500 sflang-GF75-Thin-9SC (25036)] INFO : Starting Agent shutdown
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] INFO : Environment: development
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] INFO : No known dispatcher detected.
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] INFO : Application: development
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] INFO : Installing Net instrumentation
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:26:34 -0500 sflang-GF75-Thin-9SC (25621)] INFO : Finished instrumentation
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Environment: development
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] INFO : No known dispatcher detected.
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Application: development
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Installing Net instrumentation
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:39:50 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Finished instrumentation
+[2020-03-27 14:39:51 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:39:51 -0500 sflang-GF75-Thin-9SC (26362)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:39:51 -0500 sflang-GF75-Thin-9SC (26362)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:39:51 -0500 sflang-GF75-Thin-9SC (26362)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:39:51 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Environment: development
+[2020-03-27 14:39:51 -0500 sflang-GF75-Thin-9SC (26362)] INFO : No known dispatcher detected.
+[2020-03-27 14:39:51 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Application: development
+[2020-03-27 14:39:51 -0500 sflang-GF75-Thin-9SC (26362)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:39:51 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 14:39:56 -0500 sflang-GF75-Thin-9SC (26362)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:39:58 -0500 sflang-GF75-Thin-9SC (26362)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:40:35 -0500 sflang-GF75-Thin-9SC (26362)] INFO : Starting Agent shutdown
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Environment: development
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] INFO : No known dispatcher detected.
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Application: development
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Installing Net instrumentation
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:40:36 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Finished instrumentation
+[2020-03-27 14:40:37 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:40:37 -0500 sflang-GF75-Thin-9SC (26524)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:40:37 -0500 sflang-GF75-Thin-9SC (26524)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:40:37 -0500 sflang-GF75-Thin-9SC (26524)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:40:37 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Environment: development
+[2020-03-27 14:40:37 -0500 sflang-GF75-Thin-9SC (26524)] INFO : No known dispatcher detected.
+[2020-03-27 14:40:37 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Application: development
+[2020-03-27 14:40:37 -0500 sflang-GF75-Thin-9SC (26524)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:40:37 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 14:40:48 -0500 sflang-GF75-Thin-9SC (26524)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:40:50 -0500 sflang-GF75-Thin-9SC (26524)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:49:22 -0500 sflang-GF75-Thin-9SC (26524)] INFO : Starting Agent shutdown
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Environment: development
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : No known dispatcher detected.
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Application: development
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Installing Net instrumentation
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Finished instrumentation
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Environment: development
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : No known dispatcher detected.
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Application: development
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:49:24 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 14:49:29 -0500 sflang-GF75-Thin-9SC (26946)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:49:32 -0500 sflang-GF75-Thin-9SC (26946)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:50:05 -0500 sflang-GF75-Thin-9SC (26946)] INFO : Starting Agent shutdown
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Environment: development
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : No known dispatcher detected.
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Application: development
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Installing Net instrumentation
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Finished instrumentation
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Environment: development
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : No known dispatcher detected.
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Application: development
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:50:07 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 14:50:15 -0500 sflang-GF75-Thin-9SC (27017)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:50:18 -0500 sflang-GF75-Thin-9SC (27017)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:55:25 -0500 sflang-GF75-Thin-9SC (27017)] INFO : Starting Agent shutdown
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Environment: development
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : No known dispatcher detected.
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Application: development
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Installing Net instrumentation
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Finished instrumentation
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Environment: development
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : No known dispatcher detected.
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Application: development
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:55:27 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 14:55:35 -0500 sflang-GF75-Thin-9SC (27291)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:55:38 -0500 sflang-GF75-Thin-9SC (27291)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 14:57:07 -0500 sflang-GF75-Thin-9SC (27291)] INFO : Starting Agent shutdown
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Environment: development
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : No known dispatcher detected.
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Application: development
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Installing Sequel instrumentation
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Installing Net instrumentation
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Finished instrumentation
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Environment: development
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : No known dispatcher detected.
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Application: development
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 14:57:09 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 15:08:26 -0500 sflang-GF75-Thin-9SC (27449)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 15:08:28 -0500 sflang-GF75-Thin-9SC (27449)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 15:08:32 -0500 sflang-GF75-Thin-9SC (27449)] INFO : Starting Agent shutdown
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Environment: development
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : No known dispatcher detected.
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Application: development
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Installing Sequel instrumentation
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Installing Net instrumentation
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Finished instrumentation
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Environment: development
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : No known dispatcher detected.
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Application: development
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:23:55 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 15:25:40 -0500 sflang-GF75-Thin-9SC (29961)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 15:25:42 -0500 sflang-GF75-Thin-9SC (29961)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 15:29:46 -0500 sflang-GF75-Thin-9SC (29961)] INFO : Starting Agent shutdown
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Environment: development
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] INFO : No known dispatcher detected.
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Application: development
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Installing Sequel instrumentation
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Installing Net instrumentation
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 15:29:47 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Finished instrumentation
+[2020-03-27 15:29:48 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:29:48 -0500 sflang-GF75-Thin-9SC (30715)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:29:48 -0500 sflang-GF75-Thin-9SC (30715)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:29:48 -0500 sflang-GF75-Thin-9SC (30715)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:29:48 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Environment: development
+[2020-03-27 15:29:48 -0500 sflang-GF75-Thin-9SC (30715)] INFO : No known dispatcher detected.
+[2020-03-27 15:29:48 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Application: development
+[2020-03-27 15:29:48 -0500 sflang-GF75-Thin-9SC (30715)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:29:48 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 15:29:53 -0500 sflang-GF75-Thin-9SC (30715)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 15:29:55 -0500 sflang-GF75-Thin-9SC (30715)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 15:30:41 -0500 sflang-GF75-Thin-9SC (30715)] INFO : Starting Agent shutdown
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Environment: development
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] INFO : No known dispatcher detected.
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Application: development
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Installing Sequel instrumentation
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Installing Net instrumentation
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 15:30:42 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Finished instrumentation
+[2020-03-27 15:30:43 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:30:43 -0500 sflang-GF75-Thin-9SC (30863)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:30:43 -0500 sflang-GF75-Thin-9SC (30863)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:30:43 -0500 sflang-GF75-Thin-9SC (30863)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:30:43 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Environment: development
+[2020-03-27 15:30:43 -0500 sflang-GF75-Thin-9SC (30863)] INFO : No known dispatcher detected.
+[2020-03-27 15:30:43 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Application: development
+[2020-03-27 15:30:43 -0500 sflang-GF75-Thin-9SC (30863)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:30:43 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 15:30:46 -0500 sflang-GF75-Thin-9SC (30863)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 15:30:48 -0500 sflang-GF75-Thin-9SC (30863)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 15:32:43 -0500 sflang-GF75-Thin-9SC (30863)] INFO : Starting Agent shutdown
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Environment: development
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] INFO : No known dispatcher detected.
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Application: development
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Installing Sequel instrumentation
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Installing Net instrumentation
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 15:32:44 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Finished instrumentation
+[2020-03-27 15:32:45 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:32:45 -0500 sflang-GF75-Thin-9SC (31140)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:32:45 -0500 sflang-GF75-Thin-9SC (31140)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:32:45 -0500 sflang-GF75-Thin-9SC (31140)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:32:45 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Environment: development
+[2020-03-27 15:32:45 -0500 sflang-GF75-Thin-9SC (31140)] INFO : No known dispatcher detected.
+[2020-03-27 15:32:45 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Application: development
+[2020-03-27 15:32:45 -0500 sflang-GF75-Thin-9SC (31140)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:32:45 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 15:33:21 -0500 sflang-GF75-Thin-9SC (31140)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 15:33:23 -0500 sflang-GF75-Thin-9SC (31140)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 15:39:19 -0500 sflang-GF75-Thin-9SC (31140)] INFO : Starting Agent shutdown
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Environment: development
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : No known dispatcher detected.
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Application: development
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Installing Sequel instrumentation
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Installing Net instrumentation
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Finished instrumentation
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Environment: development
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : No known dispatcher detected.
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Application: development
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:39:21 -0500 sflang-GF75-Thin-9SC (31593)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Environment: development
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] INFO : No known dispatcher detected.
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Application: development
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Installing Sequel instrumentation
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Installing deferred Rack::Builder instrumentation
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Installing Rack::Builder middleware instrumentation
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Installing Net instrumentation
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Installing New Relic supported Grape instrumentation
+[2020-03-27 15:39:30 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Finished instrumentation
+[2020-03-27 15:39:31 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Starting the New Relic agent version 6.9.0.363 in "development" environment.
+[2020-03-27 15:39:31 -0500 sflang-GF75-Thin-9SC (31663)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2020-03-27 15:39:31 -0500 sflang-GF75-Thin-9SC (31663)] WARN : No configuration file found. Working directory = /home/sflang/Projects/MarbleRubyInterview
+[2020-03-27 15:39:31 -0500 sflang-GF75-Thin-9SC (31663)] WARN : Looked in these locations (based on defaults): /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/config/newrelic.yml, /home/sflang/Projects/MarbleRubyInterview/newrelic.yml, /home/sflang/.newrelic/newrelic.yml, /home/sflang/newrelic.yml
+[2020-03-27 15:39:31 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Environment: development
+[2020-03-27 15:39:31 -0500 sflang-GF75-Thin-9SC (31663)] INFO : No known dispatcher detected.
+[2020-03-27 15:39:31 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Application: development
+[2020-03-27 15:39:31 -0500 sflang-GF75-Thin-9SC (31663)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2020-03-27 15:39:31 -0500 sflang-GF75-Thin-9SC (31663)] INFO : Doing deferred dependency-detection before Rack startup
+[2020-03-27 15:39:39 -0500 sflang-GF75-Thin-9SC (31663)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
+[2020-03-27 15:39:44 -0500 sflang-GF75-Thin-9SC (31663)] WARN : Agent received a ForceDisconnectException from the server, disconnecting. (410: Gone)
